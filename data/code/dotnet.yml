@@ -12,4 +12,5 @@ server_libraries:
   2.0 developed in C# to provide OAuth authentication for Active Directory Users.
 - <a href="https://github.com/IdentityServer/IdentityServer3">IdentityServer 3</a>
 - <a href="https://github.com/IdentityServer/IdentityServer4">IdentityServer 4</a>
+- <a href="https://github.com/titarenko/OAuth2">OAuth2</a>
 ...
